@@ -1,0 +1,12 @@
+mindstorms==0.1.2
+git+https://github.com/noamraph/spikedev.git@sensor-support-cpython
+PySide6==6.4.1
+opencv-python==4.6.0.66
+pygame==2.1.2
+pyqtdarktheme==2.1.0
+
+#Development
+pre-commit
+yapf
+flake8
+isort
